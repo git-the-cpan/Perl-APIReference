@@ -23,4 +23,4 @@ requires:
   Sereal::Decoder: '3.005'
   Sereal::Encoder: '3.005'
   parent: '0'
-version: '0.21'
+version: '0.22'
